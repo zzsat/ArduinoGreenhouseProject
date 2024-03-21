@@ -1,0 +1,15 @@
+C:\Users\zsate\Documents\ProjektAprilCSE1\Debug\BrowseInfo\src.files\startup_sam3x.pbi: \
+  C:\Users\zsate\Documents\ProjektAprilCSE1\startup_sam3x.c \
+  C:\Users\zsate\Documents\ProjektAprilCSE1\at91sam3x8.h \
+  C:\Users\zsate\Documents\ProjektAprilCSE1\exceptions.h \
+  C:\Users\zsate\Documents\ProjektAprilCSE1\core_cm3.h \
+  D:\Program\ Files\ (x86)\arm\inc\c\stdint.h \
+  D:\Program\ Files\ (x86)\arm\inc\c\ycheck.h \
+  D:\Program\ Files\ (x86)\arm\inc\c\yvals.h \
+  D:\Program\ Files\ (x86)\arm\inc\c\DLib_Defaults.h \
+  D:\Program\ Files\ (x86)\arm\inc\c\DLib_Config_Normal.h \
+  D:\Program\ Files\ (x86)\arm\inc\c\DLib_Product.h \
+  C:\Users\zsate\Documents\ProjektAprilCSE1\core_cmInstr.h \
+  D:\Program\ Files\ (x86)\arm\inc\c\aarch32\cmsis_iar.h \
+  D:\Program\ Files\ (x86)\arm\inc\c\aarch32\iccarm_builtin.h \
+  C:\Users\zsate\Documents\ProjektAprilCSE1\core_cmFunc.h

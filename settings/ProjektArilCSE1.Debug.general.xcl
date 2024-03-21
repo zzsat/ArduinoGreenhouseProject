@@ -1,0 +1,17 @@
+"D:\Program Files (x86)\arm\bin\armPROC.dll" 
+
+"D:\Program Files (x86)\arm\bin\armJLINK.dll" 
+
+"C:\Users\zsate\Documents\ProjektAprilCSE1\Debug\Exe\ProjektArilCSE1.out" 
+
+--plugin="D:\Program Files (x86)\arm\bin\armbat.dll" 
+
+--device_macro="D:\Program Files (x86)\arm\config\debugger\Microchip\SAM3XA.dmac" 
+
+--macro="C:\Users\zsate\Documents\ProjektAprilCSE1\arduino_due_x_sram.mac" 
+
+--flash_loader="D:\Program Files (x86)\arm\config\flashloader\Microchip\sam3x8\sam3x8-flash.board" 
+
+
+
+
